@@ -1,0 +1,4 @@
+﻿  Aviary.cpp
+E:\ШАГ\VisualNotCode\16 theme hw 2\16 theme hw 2\Aviary.cpp(60,29): warning C4129: : неизвестная escape-последовательность
+E:\ШАГ\VisualNotCode\16 theme hw 2\16 theme hw 2\Aviary.cpp(93): warning C4715: Aviary::findByName: значение возвращается не при всех путях выполнения
+  16 theme hw 2.vcxproj -> E:\ШАГ\VisualNotCode\16 theme hw 2\x64\Debug\16 theme hw 2.exe
